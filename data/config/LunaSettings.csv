@@ -1,0 +1,2 @@
+fieldID,fieldName,fieldType,defaultValue,secondaryValue,fieldDescription,minValue,maxValue,tab
+strengthRatio,Strength Ratio,float,3.5,,Ratio by which your fleet strength must exceed enemy fleet strength to allow forcing combat resolve.,1,,
