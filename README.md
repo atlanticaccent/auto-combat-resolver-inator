@@ -1,10 +1,8 @@
-# Price of Command
+# Auto Combat Resolver Inator
 
 ## Description
 
-Adds Fatigue, Injuries, Grave Injuries and Death to Starsector Officers.
-
-Also acts as a framework for building additional officer conditions.
+Automatically resolves combats based on fleet strength.
 
 ## Other
 
